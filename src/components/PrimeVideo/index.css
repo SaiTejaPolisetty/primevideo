@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.slider-style {
+  padding: 40px;
+}
+.banner-img {
+  width: 100%;
+  height: 300px;
+}
+.bg-container {
+  background-color: black;
+}
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+h1 {
+  color: white;
+}
+.website-body {
+  padding: 30px;
+}
